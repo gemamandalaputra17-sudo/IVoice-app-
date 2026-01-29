@@ -1,0 +1,8 @@
+{
+  "name": "IVoice Translation App",
+  "description": "A high-performance real-time translation engine powered by Gemini, supporting 8 major languages with voice input, text-to-speech, and vision-based translation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
